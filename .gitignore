@@ -1,0 +1,5 @@
+conf/db.config.ini
+.idea/
+.vscode/
+*.log
+.DS_Store
